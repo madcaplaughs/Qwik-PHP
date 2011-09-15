@@ -1,0 +1,15 @@
+have to resolve
+
+- Don't Save Files With NULL/EMPTY Input! - done
+- While saving and running make sure all slashes and other characters are saved! 
+	- done - but i have not changed the code for run.....
+- while loading show previous saves
+
+todo
+- do not commit all the time, save resources save to same file
+- add auto save to draft
+- add users
+
+at the luxury of thinking ahead
+- add support for javascript
+- managing projects for quick transfer of codes
