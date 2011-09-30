@@ -1,4 +1,10 @@
 <?php 
+/*
+Copyright (C) 2011  Debarshi Banerjee, Laddu!
+@package Qwik PHP
+@License - license.txt
+*/
+
 
 //some paths
 define('rPath','./'); //root path

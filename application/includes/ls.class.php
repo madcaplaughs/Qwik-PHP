@@ -1,4 +1,11 @@
 <?php
+/*
+Copyright (C) 2011  Debarshi Banerjee, Laddu!
+@package Qwik PHP
+@License - license.txt
+
+Lists all the snippets saved
+*/
 
 class ls{
 	

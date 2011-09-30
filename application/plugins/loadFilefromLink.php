@@ -1,4 +1,11 @@
 <?php
+/*
+Copyright (C) 2011  Debarshi Banerjee, Laddu!
+@package Qwik PHP
+@License - license.txt
+
+A plugin to load a snippet from a sharelink 
+*/
 
 class loadFilefromLink{
 	
